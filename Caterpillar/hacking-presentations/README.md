@@ -1,7 +1,7 @@
 Hacking Presentations
 =========================
 
-Building presentations with simple markup
+Building presentations with simple markup.
 
 ## Summary
 
@@ -13,5 +13,8 @@ You can explore the source code at https://github.com/xarisd/hacking-presentatio
 
 ## About the speaker
 
-Haris Dimitriou is a software developer who loves Ruby, woodworking and meetups. He is also a co-founder and CTO at [Polyptychon](http://polyptychon.gr). After years and years of quests in different programming languages he has finally found peace in Ruby-land where he is not fighting any more with his inherent need to change technologies and programming languages just to be happy...
+Haris Dimitriou is a software developer who loves Ruby, woodworking and meetups. He is also a co-founder and CTO at [Polyptychon](http://polyptychon.gr). 
+
+After years and years of quests in different programming languages he has finally found peace in Ruby-land where he is not fighting any more with his inherent need to change technologies and programming languages just to be happy...
+
 You can find more about him at <http://xarisd.io>

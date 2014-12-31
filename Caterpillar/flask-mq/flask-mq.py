@@ -31,7 +31,7 @@ class Stream(MethodView):
         my_messages.append(message)
         if len(my_messages) > MAX_MESSAGES:
             messages[key] = my_messages[1:MAX_MESSAGES+1]
-        return jsonify({"message": message})
+        return jsonify({"messages": messages[key]})
 
 @app.route("/")
 def hello():

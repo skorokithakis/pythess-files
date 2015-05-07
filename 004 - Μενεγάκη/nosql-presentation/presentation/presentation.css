@@ -1,0 +1,27 @@
+/*.reveal pre {
+  background-color: white;
+  padding: 20px;
+  font-size: 20px;
+  box-shadow: none;
+}
+
+.reveal pre.code {
+  padding: 0;
+  border: none;
+}
+*/
+
+.reveal pre code {
+  /*background-color: white;*/
+  padding-left : 20px;
+  padding-right : 20px;
+  max-height: 500px;
+}
+
+.reveal h2 code, .reveal h3 code, .reveal p code, .reveal ul li code {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}

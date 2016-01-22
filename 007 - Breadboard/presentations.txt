@@ -1,0 +1,2 @@
+* Stelios Petrakis - Instagram API weekend project
+* Stavros Korokithakis - [String phone](https://stringphone.readthedocs.org/en/latest/)

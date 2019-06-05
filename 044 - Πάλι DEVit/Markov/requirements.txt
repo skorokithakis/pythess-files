@@ -1,0 +1,7 @@
+ipython==6.5.0
+markovify
+snakeviz
+pprintpp
+https://github.com/skorokithakis/doitlive/archive/dev.zip
+black[d]
+requests

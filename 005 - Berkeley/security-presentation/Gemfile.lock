@@ -54,8 +54,8 @@ GEM
       logutils
       props
       rubyzip
-    thread_safe (0.3.4)
-    tzinfo (1.2.2)
+    thread_safe (0.3.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     ultraviolet (1.0.1)
       textpow (>= 1.3.0)
